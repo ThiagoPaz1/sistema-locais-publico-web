@@ -76,5 +76,5 @@ body {
 }
 
 .form-group2__link:hover {
-    background-color: #414141;
+    text-decoration: underline;
 }
