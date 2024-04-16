@@ -1,0 +1,93 @@
+[33mcommit fafecb4b6f2bd1eeb73206c652005ff08b613088[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/page-login[m[33m)[m
+Author: Riquelme Arrais <riquelmearrais18@gmail.com>
+Date:   Tue Apr 16 20:46:49 2024 -0300
+
+    password recovery page has been added, but not finished yet!
+
+[33mcommit 54e0b83fc6434572a71c28b53b64cac215d94848[m
+Author: Riquelme Arrais <riquelmearrais18@gmail.com>
+Date:   Tue Apr 9 20:07:05 2024 -0300
+
+    added the CPF input box when registering, the background image was also changed, the input box borders and buttons are now blue
+
+[33mcommit 47ed2e10c6aa203aef237c2021a73b996da21764[m
+Author: Riquelme Arrais <riquelmearrais18@gmail.com>
+Date:   Tue Apr 2 23:46:35 2024 -0300
+
+    added the underline when hovering the cursor in the registration part and in the forgotten password part!!
+
+[33mcommit e2d18fec1272a1abfb346a53be56f095ace1c107[m
+Author: Riquelme Arrais <riquelmearrais18@gmail.com>
+Date:   Tue Apr 2 23:32:01 2024 -0300
+
+    changed the size of inboxed
+
+[33mcommit e6cabd89f0437b919c083e1b36b81f18ea42954d[m
+Author: Riquelme Arrais <riquelmearrais18@gmail.com>
+Date:   Tue Apr 2 23:26:06 2024 -0300
+
+    changed the path from which the registration part code is called, as they are in different folders it was giving an error, now it is fixed
+
+[33mcommit bfe4d54aed6736239a0c88463d0bca2422206dc9[m
+Author: Riquelme Arrais <riquelmearrais18@gmail.com>
+Date:   Tue Apr 2 23:13:14 2024 -0300
+
+    update the login page and registration page, followed by latest changes that have been shadowed in all input boxes
+
+[33mcommit 8073370a6fb1deef6e8ec6bc1a6d7823d2adb8f2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: f1ffba4 921c485
+Author: Thiago <47613370+ThiagoPaz1@users.noreply.github.com>
+Date:   Fri Mar 29 00:05:23 2024 -0300
+
+    Merge pull request #3 from ThiagoPaz1/develop
+    
+    Develop
+
+[33mcommit 921c485b3537bc3c43ad3b9a924afea9fcdbc2e0[m[33m ([m[1;31morigin/develop[m[33m)[m
+Merge: 2de4352 6e5db23
+Author: Thiago <thiagopazjunior@gmail.com>
+Date:   Fri Mar 29 00:04:08 2024 -0300
+
+    xMerge branch 'develop' of github.com:ThiagoPaz1/sistema-locais-publico-web into develop
+
+[33mcommit 2de4352a30851c24aea685699d0df02145c6380f[m
+Author: Thiago <thiagopazjunior@gmail.com>
+Date:   Fri Mar 29 00:03:02 2024 -0300
+
+    feat: created new pages
+
+[33mcommit f1ffba4230cefcb23cc40822917041892dd99923[m
+Merge: fa25816 6e5db23
+Author: Thiago <47613370+ThiagoPaz1@users.noreply.github.com>
+Date:   Thu Mar 28 22:26:46 2024 -0300
+
+    Merge pull request #2 from ThiagoPaz1/develop
+    
+    Develop
+
+[33mcommit 6e5db230d686c9b06bd5afb76a0555efd12aa5a6[m
+Merge: 097a592 55ac62b
+Author: Thiago <47613370+ThiagoPaz1@users.noreply.github.com>
+Date:   Thu Mar 28 22:19:43 2024 -0300
+
+    Merge pull request #1 from ThiagoPaz1/feature/page-login
+    
+    feat: index file created
+
+[33mcommit 097a592da4d33a6cc47be53eb5d3f79aa536b5a3[m
+Author: Thiago <thiagopazjunior@gmail.com>
+Date:   Thu Mar 28 22:09:19 2024 -0300
+
+    feat
+
+[33mcommit 55ac62bf90b729dad44af9f7d9871c47c36bee4f[m[33m ([m[1;31morigin/feature/page-login[m[33m)[m
+Author: Thiago <thiagopazjunior@gmail.com>
+Date:   Thu Mar 28 22:02:27 2024 -0300
+
+    feat: index file created
+
+[33mcommit fa25816d07e013e837223cc4a4a4a68e4ede1821[m
+Author: Thiago <47613370+ThiagoPaz1@users.noreply.github.com>
+Date:   Tue Mar 26 21:05:57 2024 -0300
+
+    Initial commit
