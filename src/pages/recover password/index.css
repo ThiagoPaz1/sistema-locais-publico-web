@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(mapa.png);
+    background-size: cover;
+}
+
+.recuperar-container {
+    background-color: rgba(255, 255, 255, 0.35);
+    border-radius: 8px;
+    padding: 40px;
+    width: 250;
+    border: 4px solid rgba(49, 111, 146, 1);
+    box-shadow: 0 0 25px rgba(0, 0, 0, 3);
+}
+
+.recuperar-container h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+.form-group {
+    margin-bottom: 25px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 93%;
+    padding: 8px;
+    border: 2px solid rgba(49, 111, 146, 0.7);
+    background-color: rgba(255, 255, 255, 0.50);
+    border-radius: 5px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 1);
+}
+
+.form-group-button {
+}
